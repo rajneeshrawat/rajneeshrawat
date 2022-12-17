@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rajneesh Rawat siuuuuuuuu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rajneesh Rawat </h1>
+<h3 align="center">A passionate frontend developer from India... Siuuuu...</h3>
 <img align="right" alt="coding" width ="400" src="https://miro.medium.com/max/1200/0*goaFvkjpQM-0p0h6."> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshrawat&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshrawat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/its_rr9" target="blank"><img src="https://img.shields.io/twitter/follow/its_rr9?logo=twitter&style=for-the-badge" alt="its_rr9" /></a> </p>
+
 
 - 🔭 I’m currently working on **Portfolio Website**
 
