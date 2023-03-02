@@ -6,9 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshrawat&label=Profile%20views&color=0e75b6&style=flat" alt="rajneeshrawat" /> </p>
 
 
-
-- 🔭 I’m currently working on **Portfolio Website**
-
 - 🌱 I’m currently learning **React ,Html and CSS.**
 
 - 💬 Ask me about **React**
